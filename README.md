@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @semomo12
+- 👀 I’m interested in Software Engineering,
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me, semh24@student.bth.se
+- ⚡ Don't judge everything you see!
+- ⚡ Don't believe everything you hear!
+- ⚡ Don't say everything you know!
+
+<!---
+semomo12/semomo12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

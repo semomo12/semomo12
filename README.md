@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @semomo12
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on various projects with entrepreneurs who are full of new ideas!
+- 👨‍🎓 I’m currently learning Software Engineering and looking to collaborate on various projects with entrepreneurs who are full of new ideas!
 - 📫 You can reach me by semh24@student.bth.se
 - ⚡ Don't judge everything you see!
 - ⚡ Don't believe everything you hear!

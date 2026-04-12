@@ -1,20 +1,8 @@
-- 👋 Hi, I’m @semomo12
-- 👨‍🎓 I’m currently learning Software Engineering and looking to collaborate on various projects with entrepreneurs who are full of new ideas!
-- 📫 You can reach me by semh24@student.bth.se
-- ⚡ Don't judge everything you see!
-- ⚡ Don't believe everything you hear!
-- ⚡ Don't say everything you know!
 
 <!---
 semomo12/semomo12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
-
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                        🌌  MOSTAFA MOHSENI  🌌                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -64,7 +52,6 @@ const mostafa = {
     gradYear: 2027,
     languages: ["Swedish 🇸🇪", "English 🇬🇧", "Dari 🇦🇫", "Persian 🇮🇷"],
     currentFocus: "Full-Stack Development & System Design",
-    funFact: "I debug with console.log and I'm not ashamed 😄",
     motto: "Code → Break → Learn → Repeat 🔄"
 };
 ```
@@ -90,6 +77,10 @@ const mostafa = {
 <td align="center" width="100">
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   <br><b>Python</b>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <br><b>Java</b>
 </td>
 <td align="center" width="100">
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
@@ -126,12 +117,16 @@ const mostafa = {
   <br><b>React</b>
 </td>
 <td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <br><b>Node.js</b>
+  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+  <br><b>Vue</b>
 </td>
 <td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-  <br><b>Tailwind</b>
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+  <br><b>Spring Boot</b>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br><b>Node.js</b>
 </td>
 <td align="center" width="100">
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
@@ -160,10 +155,6 @@ const mostafa = {
   <br><b>MariaDB</b>
 </td>
 <td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-  <br><b>Supabase</b>
-</td>
-<td align="center" width="100">
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   <br><b>GitHub</b>
 </td>
@@ -188,9 +179,9 @@ const mostafa = {
 
 | 🎯 Area | 💡 Skills |
 |---------|----------|
-| **Frontend** | React, Tailwind CSS, Responsive Design, Modern UI/UX |
-| **Backend** | Node.js, REST APIs, Database Design, SQL |
-| **DevOps** | Docker, Git/GitHub, Linux, CI/CD Basics |
+| **Frontend** | React, Vue, Responsive Design, Modern UI/UX |
+| **Backend** | Spring Boot, Node.js, REST APIs, Database Design, SQL |
+| **DevOps** | Docker, Git/GitHub, Linux |
 | **Software Design** | Design Patterns, Architecture, Clean Code, SOLID |
 | **Problem Solving** | Algorithms, Data Structures, Debugging |
 | **Communication** | 4 Languages, Team Collaboration, Documentation |
@@ -244,35 +235,12 @@ const mostafa = {
 <a href="https://github.com/semomo12/LibraryBookTrackSystem">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semomo12&repo=LibraryBookTrackSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" />
 </a>
-<a href="https://github.com/semomo12/DatabaseCourse">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semomo12&repo=DatabaseCourse&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" />
+<a href="https://github.com/semomo12/TypingPythonProgram">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semomo12&repo=TypingPythonProgram&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" />
 </a>
-<a href="https://github.com/semomo12/BasicSoftwareDevelopment">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semomo12&repo=BasicSoftwareDevelopment&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" />
+<a href="https://github.com/semomo12/Timeline">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semomo12&repo=Timeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" />
 </a>
-<a href="https://github.com/semomo12/SoftwareDesign-Architecture">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semomo12&repo=SoftwareDesign-Architecture&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" />
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          SNAKE ANIMATION                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semomo12/semomo12/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/semomo12/semomo12/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/semomo12/semomo12/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-> ⚠️ *Set up [snk](https://github.com/Platane/snk) GitHub Action in your profile repo to enable this animation!*
 
 </div>
 
@@ -324,11 +292,11 @@ const mostafa = {
 
 ```text
 🎓 Studying    Software Engineering at BTH (Year 2 of 3)
-🔭 Working on  Portfolio projects & open source contributions
-🌱 Learning    React, TypeScript, System Design, Cloud
-👯 Looking to  Collaborate on meaningful projects
-💬 Ask me      About Python, C++, Databases, or Software Design
-⚡ Fun fact    I speak 4 languages and write code in even more!
+🔭 Working on  Full-stack apps with React, Vue & Spring Boot
+🌱 Learning    System Design, Cloud Architecture, DevOps
+👯 Looking to  Collaborate on open source & real-world projects
+💬 Ask me      About Python, Java, C++, Databases, or Software Design
+⚡ Fun fact    I speak 4 languages: Swedish, English, Dari & Persian
 ```
 
 </div>
@@ -371,8 +339,6 @@ const mostafa = {
 
 <br/><br/>
 
-<sub>🔥 Made with passion from Karlskrona, Sweden 🇸🇪</sub>
-<br/>
-<sub>⭐ Star my repos if you find them useful!</sub>
+<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-667eea?style=flat-square&labelColor=0d1117" />
 
 </div>

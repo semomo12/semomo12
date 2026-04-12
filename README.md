@@ -227,16 +227,36 @@ const mostafa = {
 <!--                          FEATURED PROJECTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+---
+
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/semomo12/semomo12/main/assets/library-logo.png" width="120" alt="LibraryBookTrackSystem Logo" />
+
+#### 📚 Library Book Track System
+
 <a href="https://github.com/semomo12/LibraryBookTrackSystem">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semomo12&repo=LibraryBookTrackSystem&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" />
 </a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/semomo12/semomo12/main/assets/typing-logo.png" width="120" alt="TypingPythonProgram Logo" />
+
+#### ⌨️ Typing Python Program
+
 <a href="https://github.com/semomo12/TypingPythonProgram">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semomo12&repo=TypingPythonProgram&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" />
 </a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/semomo12/semomo12/main/assets/timeline-logo.png" width="120" alt="Timeline Logo" />
+
+#### 🕐 Timeline
+
 <a href="https://github.com/semomo12/Timeline">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=semomo12&repo=Timeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" />
 </a>

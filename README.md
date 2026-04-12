@@ -292,10 +292,10 @@ const mostafa = {
 ```text
 🎓 Studying    Software Engineering at BTH (Year 2 of 3)
 🔭 Working on  Full-stack apps with React, Vue & Spring Boot
-🌱 Learning    System Design, Cloud Architecture, DevOps
-👯 Looking to  Collaborate on open source & real-world projects
-💬 Ask me      About Python, Java, C++, Databases, or Software Design
-⚡ Fun fact    I speak 4 languages: Swedish, English, Dari & Persian
+🌱 Learning    Software Engineering
+👯 Looking to  Collaborate on innovative projects
+💬 Ask me      About anything
+⚡ Fun fact    I speak 4 languages: Swedish, English, Dari & Persian and even more programming languages..
 ```
 
 </div>

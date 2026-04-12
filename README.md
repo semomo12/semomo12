@@ -56,8 +56,7 @@ const mostafa = {
 };
 ```
 
-> *"Don't judge everything you see! Don't believe everything you hear!  
-> Don't say everything you know!"*
+> *"Don't judge everything you see! Don't believe everything you hear! Don't say everything you know!"*
 
 <br clear="both"/>
 

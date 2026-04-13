@@ -51,8 +51,7 @@ const mostafa = {
     education: "B.Sc. Software Engineering @ BTH",
     gradYear: 2027,
     languages: ["Swedish 🇸🇪", "English 🇬🇧", "Dari 🇦🇫", "Persian 🇮🇷"],
-    currentFocus: "Full-Stack Development & System Design",
-    motto: "Code → Break → Learn → Repeat 🔄"
+    currentFocus: "Full-Stack Development"
 };
 ```
 

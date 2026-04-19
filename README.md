@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 ```js
 const mostafa = {
-    pronouns: "he" | "him",
+    alias: "semomo",
     location: "Karlskrona, Sweden 🇸🇪",
     education: "B.Sc. Software Engineering @ BTH",
     gradYear: 2027,
@@ -173,7 +173,7 @@ const mostafa = {
 
 ## 💼 &nbsp;What I Bring to the Table
 
-<div align="center">
+<!-- <div align="center">
 
 | 🎯 Area | 💡 Skills |
 |---------|----------|
@@ -186,7 +186,7 @@ const mostafa = {
 
 </div>
 
----
+--- -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                            GITHUB STATS                                   -->
@@ -197,9 +197,9 @@ const mostafa = {
 <div align="center">
 
 <!-- Stats Cards Row -->
-<a href="https://github.com/semomo12">
+<!-- <a href="https://github.com/semomo12">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=semomo12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea&include_all_commits=true&count_private=true" />
-</a>
+</a> -->
 <a href="https://github.com/semomo12">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semomo12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
 </a>
@@ -264,21 +264,6 @@ const mostafa = {
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          TROPHIES                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=semomo12&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                              METRICS                                      -->
@@ -290,11 +275,11 @@ const mostafa = {
 
 ```text
 🎓 Studying    Software Engineering at BTH (Year 2 of 3)
-🔭 Working on  Full-stack apps with React, Vue & Spring Boot
-🌱 Learning    Software Engineering
-👯 Looking to  Collaborate on innovative projects
+🔭 Working on   Full-stack application with NodeJs, Vue, Spring Boot & java
+🌱 Learning     Software Engineering
+👯 Looking to   Collaborate on innovative projects
 💬 Ask me      About anything
-⚡ Fun fact    I speak 4 languages: Swedish, English, Dari & Persian and even more programming languages..
+⚡ Fun fact    I speak 4 languages and even more programming languages..
 ```
 
 </div>

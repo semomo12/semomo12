@@ -53,13 +53,12 @@ const mostafa = {
     languages: ["Swedish 🇸🇪", "English 🇬🇧", "Dari 🇦🇫", "Persian 🇮🇷"],
     currentFocus: "Full-Stack Development",
 
-    motto: "Don't judge everything you see!
+    motto: `Don't judge everything you see!
             Don't believe everything you hear!
-            Don't say everything you know!"
+            Don't say everything you know!`
 };
 ```
 
-> *"Don't judge everything you see! Don't believe everything you hear! Don't say everything you know!"*
 
 <br clear="both"/>
 
@@ -279,9 +278,9 @@ const mostafa = {
 
 ```text
 🎓 Studying    Software Engineering at BTH (Year 2 of 3)
-     🔭 Working on   Full-stack application with NodeJs, Vue, Spring Boot & java
-👯 Looking to        Collaborate on innovative projects
-💬 Ask me            About anything
+     🔭 Working on       Full-stack application with NodeJs, Vue, Spring Boot & java
+👯 Looking to    Collaborate on innovative projects
+💬 Ask me         About anything
 ⚡ Fun fact          I speak 4 languages and even more programming languages..
 ```
 

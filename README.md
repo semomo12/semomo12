@@ -272,9 +272,9 @@ const mostafa = {
 <!--                              METRICS                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🎯 &nbsp;Currently...
+<!--## 🎯 &nbsp;Currently...
 
-<div align="center">
+<!-- <div align="center">
 
 ```text
 🎓 Studying    Software Engineering at BTH (Year 2 of 3)
@@ -286,7 +286,7 @@ const mostafa = {
 
 </div>
 
----
+--- -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                        SPOTIFY / QUOTE                                    -->
